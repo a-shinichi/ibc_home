@@ -7,6 +7,12 @@
           "Authorization": "Basic YWRtaW46aWJjX2hvbWU="
         }
       }
+    ],
+    "builds": [
+        {
+            "src": "package.json",
+            "use": "@vercel/node"
+        }
     ]
   }
   
