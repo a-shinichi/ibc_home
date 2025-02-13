@@ -10,7 +10,7 @@ function Hero() {
             <div
                 className="absolute top-0 left-0 w-full h-[50vh]"
                 style={{
-                    backgroundImage: 'url("public/images/hero-bg.gif")',
+                    backgroundImage: 'url("https://a-shinichi.github.io/ibc_home/public/images/hero-bg.gif")',
                     backgroundSize: "cover",
                     clipPath: "polygon(0 0, 100% 0, 100% 90%, 0 100%)",
                     position: "fixed",
