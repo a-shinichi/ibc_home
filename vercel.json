@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "routes": [
+      {
+        "src": "/.*",
+        "headers": {
+          "Authorization": "Basic YWRtaW46aWJjX2hvbWU="
+        }
+      }
+    ]
+  }
+  
